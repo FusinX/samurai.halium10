@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="kernel/realme/sm8150" name="FusinX/android_kernel_realme_sm8150" remote="github" revision="lineage-17.1" />
-  <project path="device/realme/RMX1931" name="FusinX/android_device_realme_samurai" remote="github" revision="lineage-17.1" />
-  <project path="vendor/realme/RMX1931" name="FusinX/proprietary_vendor_realme_samurai" remote="github" revision="lineage-17.1" />
+  <project path="kernel/realme/sm8150" name="FusinX/android_kernel_realme_sm8150" remote="github" revision="halium-10" />
+  <project path="device/realme/RMX1931" name="FusinX/android_device_realme_samurai" remote="github" revision="halium-10" />
+  <project path="vendor/realme/RMX1931" name="FusinX/proprietary_vendor_realme_samurai" remote="github" revision="halium-10" />
 </manifest>
